@@ -9,7 +9,6 @@ def random_int_generator(min, max):
     """
     return random.randint(min, max)
 
-
 def random_operator_generator():
     """
     Generates a random operator and outputs +, - or *
